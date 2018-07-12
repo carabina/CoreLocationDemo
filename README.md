@@ -2,6 +2,18 @@
 
 This is basically for fetching user current location, In this example Singleton class use for share location service in swift4. This class will auto update location when user change current location using Completion Blocks with error handlling as well.
 
+# Installation
+  Drop in the Classes folder to your Xcode project.
+  You can also use CocoaPods or Carthage.
+  
+# Using CocoaPods
+  First be sure to run pod repo update to get the latest version available.
+  Add pod 'CoreLocationDemo' to your Podfile and run pod install. Also add use_frameworks! to the Podfile.
+  
+  target 'MyApp'
+  pod pod 'CoreLocationDemo', '~> 0.1.0'
+  use_frameworks!
+
 # Updated for Swift 4
   Swift 4 Version
   
