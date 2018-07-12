@@ -10,9 +10,9 @@ This is basically for fetching user current location, In this example Singleton 
   First be sure to run pod repo update to get the latest version available.
   Add pod 'CoreLocationDemo' to your Podfile and run pod install. Also add use_frameworks! to the Podfile.
   
-  target 'MyApp'
-  pod pod 'CoreLocationDemo', '~> 0.1.0'
-  use_frameworks!
+  * target 'MyApp'
+  * pod 'CoreLocationDemo', '~> 0.1.0'
+  * use_frameworks!
 
 # Updated for Swift 4
   Swift 4 Version
