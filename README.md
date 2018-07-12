@@ -13,6 +13,8 @@ This is basically for fetching user current location, In this example Singleton 
   * target 'MyApp'
   * pod 'CoreLocationDemo', '~> 0.1.0'
   * use_frameworks!
+  
+  https://cocoapods.org/pods/CoreLocationDemo
 
 # Updated for Swift 4
   Swift 4 Version
